@@ -1,0 +1,11 @@
+[general]
+name=DOP Germany
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+description=Automatically loads WMS DOP Deutschland layers with exclusivity removed and all layers checked.
+about=Plugin created to load standardized WMS layers instantly in QGIS.
+version=1.0
+author=Nazmus Sadat
+email=i.am.nazmussadat@gmail.com
+tracker=https://github.com/iamnazmussadat/dop-germany/issues
+repository=https://github.com/iamnazmussadat/dop-germany
