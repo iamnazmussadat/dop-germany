@@ -9,3 +9,4 @@ author=Nazmus Sadat
 email=i.am.nazmussadat@gmail.com
 tracker=https://github.com/iamnazmussadat/dop-germany/issues
 repository=https://github.com/iamnazmussadat/dop-germany
+homepage=https://github.com/iamnazmussadat/dop-germany
